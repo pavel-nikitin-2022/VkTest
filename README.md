@@ -1,6 +1,6 @@
 # VkTest
 Запуск проекта:
-npm start
-cd server -----> node server.js
+(npm start) клиент
+(cd server -----> node server.js) сервак
 
 как то так :)
